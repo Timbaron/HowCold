@@ -12,6 +12,7 @@
 h1 {
   font-family: sans-serif;
   font-style: italic;
+  margin: 0 auto;
 }
 
 .search-input {
